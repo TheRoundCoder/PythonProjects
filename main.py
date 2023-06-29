@@ -16,7 +16,7 @@ while True:
                 exit()
         #when entering gibberish
         case _:
-                print("Wrong command")
+                print("Wrong command")asdasdasd
 
 
 
